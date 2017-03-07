@@ -1,4 +1,4 @@
 # Python-Projects
 This is a repository for all my python programs
 
-Colson Xu on March 7, 2017
+-[X]Colson Xu on 2017-March-6
